@@ -9,6 +9,9 @@ This project documents an observability and AI-assisted operations architecture 
 
 The platform uses Java, Spring, Jetty, Kubernetes, relational and NoSQL databases, and modern web technologies. New Relic collects telemetry, while Large Language Models (LLMs) and the Model Context Protocol (MCP) enable natural-language investigation of application performance and operational incidents.
 
+<img width="1578" height="1150" alt="Screenshot 2026-10-27 at 8 04 51 PM copy" src="https://github.com/user-attachments/assets/b58c4576-0a7f-4d87-b7ba-03d3e89a4a42" />
+
+
 The solution aims to help developers, support engineers, DevOps engineers, and platform administrators answer questions such as:
 
 Why is supplier onboarding taking longer than usual?
